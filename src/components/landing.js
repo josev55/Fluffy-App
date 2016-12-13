@@ -11,7 +11,7 @@ const Landing = (props) => {
             <li><Link to="/">Home</Link></li>
             <li><Link to="/">Services</Link></li>
             <li><Link to="/">Pricing</Link></li>
-          <li><Link to="/">Log In</Link></li>
+          <li><Link to="/login">Log In</Link></li>
           </ul>
         </div>
         <div className="landing-body">
