@@ -8,7 +8,6 @@ const Landing = (props) => {
         <div className="header">
           <ul className="main-nav">
             <li><img className="logo" height="94" width="250"  src="/imgs/Logo.png" /></li>
-            <li><Link to="/">Home</Link></li>
             <li><Link to="/">Services</Link></li>
             <li><Link to="/">Pricing</Link></li>
           <li><Link to="/login">Log In</Link></li>

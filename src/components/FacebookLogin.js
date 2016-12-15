@@ -23,7 +23,7 @@ class FacebookLogin extends Component {
       <div className="facebook-btn" onClick={() => LogFacebook(this.props.onFacebookResponse)}>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
         <i className="fa fa-facebook-official fa-2x"></i>
-        <span className="facebook-title">Conectaté con Facebook</span>
+        <span className="facebook-title">Conéctate con Facebook</span>
       </div>
     );
   }
